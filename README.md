@@ -12,3 +12,4 @@ Task 2: In this task, you will create the visuals around four of the questions t
 
 Task3: Develop a script and record a video presenting your findings to the CEO and CMO based on the four questions they asked and the visuals you created in the previous tasks.
 
+![image](https://github.com/pranaysj08/Tata-Forage-Data-Visualization-Internship-/assets/114241116/bb19b821-4333-4595-8647-cd05155818f2)
